@@ -23,9 +23,9 @@
 {
 	// 'scene' is an autorelease object.
 	CCScene *scene = [CCScene node];
-	
-	// 'layer' is an autorelease object.
-	HelloWorldLayer *layer = [HelloWorldLayer node];
+//	sadasdasdasdas
+//	// 'layer' is an autorelease object.
+//	HelloWorldLayer *layer = [HelloWorldLayer node];
 	
 	// add layer as a child to scene
 	[scene addChild: layer];
